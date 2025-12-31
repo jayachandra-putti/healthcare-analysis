@@ -46,7 +46,7 @@ Automate reporting processes
 Build interactive dashboards for real-time insights
 
 Improve performance tracking across clinics and departments
- Dashboard -<a href="https://github.com/jayachandra-putti/healthcare-analysis/commit/47c56232d9f3aea091fa092cf9aa417390ef8c60">DASHBOARD</a>
+  -<a href="https://github.com/jayachandra-putti/healthcare-analysis/commit/47c56232d9f3aea091fa092cf9aa417390ef8c60">DASHBOARD</a>
 Axon Healthcare is struggling to convert EMR data into meaningful insights due to siloed systems, manual reporting, and lack of real-time visibility into clinical and operational KPIs. Stakeholders rely on outdated Excel reports, making decision-making slow and reactive. To address this, Axon is hiring a Power BI consultant to:
 
 Integrate EMR, billing, and operational data
