@@ -1,2 +1,3 @@
-# healthcare-analysis
-- Built a healthcare analytics dashboard using Excel, Power BI, Tableau, and MySQL to track patients, doctors, treatments, and lab results. - Applied SQL QA checks for data accuracy and consistency, ensuring reliable KPIs and actionable insights.
+#healthcare analysis Dashboard
+##Project Objective:
+To design and implement a comprehensive healthcare analytics solution using Excel, Power BI, Tableau, and MySQL that delivers accurate, validated, and actionable insights. The project aims to establish key performance indicators (KPIs) for patient demographics, doctor workload, treatment costs, and lab results, while ensuring data quality through SQL‑based QA checks. By integrating backend validation with interactive dashboards, the objective is to enable healthcare providers to make data‑driven decisions that improve efficiency, patient care, and resource management.
